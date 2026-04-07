@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "id": 1774413724184,
+      "type": "income",
+      "description": "had cash",
+      "amount": 300000,
+      "date": "2026-03-25T04:42:04.184Z"
+    },
+    {
+      "id": 1774413747291,
+      "type": "expense",
+      "description": "payexa",
+      "amount": 40000,
+      "date": "2026-03-25T04:42:27.291Z"
+    }
+  ]
+}
