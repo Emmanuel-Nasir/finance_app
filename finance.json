@@ -1,18 +1,32 @@
 {
   "transactions": [
     {
-      "id": 1774413724184,
-      "type": "income",
-      "description": "had cash",
-      "amount": 300000,
-      "date": "2026-03-25T04:42:04.184Z"
-    },
-    {
       "id": 1774413747291,
       "type": "expense",
       "description": "payexa",
       "amount": 40000,
       "date": "2026-03-25T04:42:27.291Z"
+    },
+    {
+      "id": 1775586827690,
+      "type": "income",
+      "description": "Pef payment",
+      "amount": 100000,
+      "date": "2026-04-07T18:33:47.690Z"
+    },
+    {
+      "id": 1775588126346,
+      "type": "income",
+      "description": "Salary",
+      "amount": 50000,
+      "date": "2026-04-07T18:55:26.346Z"
+    },
+    {
+      "id": 1775588138393,
+      "type": "expense",
+      "description": "Transport",
+      "amount": 20000,
+      "date": "2026-04-07T18:55:38.393Z"
     }
   ]
 }
